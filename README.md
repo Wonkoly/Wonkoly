@@ -17,7 +17,7 @@
 ### 🎵 Lo que estoy escuchando en Spotify
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=wonkoly&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wonkoly&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=wonkoly&redirect=true)
 </div>
 
 ---
