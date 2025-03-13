@@ -14,6 +14,14 @@
 
 ---
 
+### 🎵 Lo que estoy escuchando en Spotify
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=f2c43d004a184b5e&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
+</div>
+
+---
+
 ### 🛠️ Tecnologías y herramientas
 
 <div align="left">
@@ -64,4 +72,3 @@
 ---
 
 ✨ _¡Gracias por visitar mi perfil! 🚀_
-
