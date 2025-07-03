@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Cokie 👋</h1>
+<h1 align="center">¡Hola! Soy Wonk 👋</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/61/c0/a6/61c0a6b2234e1118a26fdf9ce5e9498e.jpg" height="150" />
