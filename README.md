@@ -32,21 +32,21 @@ I'm a software enthusiast focused on building clean, efficient, and functional t
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wonkoly&show_icons=true&theme=vivid&hide_border=true&title_color=333&text_color=555&icon_color=333&bg_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wonkoly&show_icons=true&theme=default&hide_border=true&title_color=333&text_color=555&icon_color=333&bg_color=ffffff" alt="GitHub Stats" />
 </p>
 
 <br/>
 
 ### 📫 Let's Connect
 <p align="left">
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=black" />
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-white?style=flat-square&logo=gmail&logoColor=black" />
+  <a href="mailto:wonkoly@outlook.es">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-white?style=flat-square&logo=discord&logoColor=black" />
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
